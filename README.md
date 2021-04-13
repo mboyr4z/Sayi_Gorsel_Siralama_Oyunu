@@ -5,7 +5,7 @@
 
 
 
-  <img src="https://i.resmim.net/f6SkX.png" width="350" title="selam">
+  <img src="https://cdn1.ntv.com.tr/gorsel/49yx_7WhVU2AgWnPgdwYmg.jpg?width=1000&mode=crop&scale=both" width="350" title="selam">
 
 
 
