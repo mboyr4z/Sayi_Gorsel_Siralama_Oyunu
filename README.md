@@ -2,10 +2,11 @@
 
 ## ANLATIM
 
-<h3 align="center">ANA EKRAN</h3>
+<h3 align="center" stlye="color:Red;">ANA EKRAN</h3>
 
+<p align="center" >
 <img src="https://www.resimyukle.org/images/2021/04/13/eb938ac15cfc204b982caa378506ad05.png" alt="eb938ac15cfc204b982caa378506ad05.png" border="0">
-
+</p>
 
 Ana Ekranımızda Sayı Modu ve Görsel Modumuzu Seçebiliriz. 
 Eğer Görsel Mod atkif ise Dosya Seç butonu aktif olur ve resim seçilmeden "başla" ve "turnuva" tuşları aktif olmaz.
