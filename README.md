@@ -5,7 +5,11 @@
 
 
 <p align="center">
-  <img src="https://i.hizliresim.com/DVn5WM.png" width="350" >
+  <img src="https://i.hizliresim.com/DVn5WM.png" width="350" title="selam">
+</p>
+
+<p align="center">
+  <img src="https://i.hizliresim.com/r0rdp2.png" width="350" title="hover text">
 </p>
 
 Ana Ekranımızda Sayı Modu ve Görsel Modumuzu Seçebiliriz. 
