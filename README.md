@@ -15,3 +15,4 @@ Eğer Görsel Mod atkif ise Dosya Seç butonu aktif olur ve resim seçilmeden "b
 Süre seçeneğini aktif edersek te belirtilen dakika cinsindeki zaman oyuna başladıktan sonra başlar ve geri sayar. Süre bitince oyun biter.
 
 
+[url=https://klasresim.com/i/f6SkX][img]https://i.resmim.net/f6SkX.png[/img][/url]
