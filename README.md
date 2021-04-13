@@ -2,10 +2,10 @@
 
 ## ANLATIM
 
-<p align="center" style="color:Red;">ANA EKRAN</p>
+<p align="center" style="color:red;">ANA EKRAN</p>
 
 <p align="center">
-  <img src="https://i.hizliresim.com/DVn5WM.png" width="350" title="hover text">
+  <img src="https://i.hizliresim.com/DVn5WM.png" width="350" title="Ana Ekran">
 </p>
 
 Ana Ekranımızda Sayı Modu ve Görsel Modumuzu Seçebiliriz. 
@@ -16,6 +16,6 @@ Süre seçeneğini aktif edersek te belirtilen dakika cinsindeki zaman oyuna ba�
 
 ### RESİM MODU
 <p align="center">
-  <img src="https://i.hizliresim.com/jFgIEB.png" width="350" title="hover text">
+  <img src="https://i.hizliresim.com/jFgIEB.png" width="350" title="Resim Modu">
 </p>
 
