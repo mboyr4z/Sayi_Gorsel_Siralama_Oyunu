@@ -2,7 +2,7 @@
 
 ## ANLATIM
 
-<p align="center" style="color:red;">ANA EKRAN</p>
+<p align="center">ANA EKRAN</p>
 
 <p align="center">
   <img src="https://i.hizliresim.com/DVn5WM.png" width="350" title="Ana Ekran">
