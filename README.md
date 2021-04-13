@@ -35,3 +35,12 @@ Süre seçeneğini aktif edersek te belirtilen dakika cinsindeki zaman oyuna ba�
 
 
 
+<h3 align="center" style="color:Red;">Bildirim Ekranı</h3>
+<p align="center" >
+<img src="https://www.resimyukle.org/images/2021/04/13/973feeed8d8900c952641a530a3277d7.png" alt="5" border="0">
+
+</p>
+
+
+
+
