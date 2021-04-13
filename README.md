@@ -4,9 +4,9 @@
 
 
 
-<p align="center">
+
   <img src="https://i.hizliresim.com/2o0Mbf.png" width="350" title="selam">
-</p>
+
 
 <p align="center">
   <img src="https://i.hizliresim.com/DVn5WM.png" width="350" title="hover text">
