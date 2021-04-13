@@ -1,0 +1,85 @@
+QPushButton#btn_basla,#btn_turnuva,#btn_dosyaSec,#btn_restart,#btn_next,#btn_anasayfa{
+  background-color: white;
+  color: black;
+  border: 2px solid #006666;
+}
+
+QPushButton#btn_basla:hover,#btn_turnuva:hover,#btn_dosyaSec:hover,#btn_restart:hover,#btn_next:hover,#btn_anasayfa:hover {
+  background-color: #006666;
+  color: white;
+}
+
+QLabel#lbl_ust,#lbl_alt{
+background:#006666;
+}
+
+QLabel#lbl_orta{
+background:#669999;
+}
+
+QComboBox{
+ background-color: white;
+  color: black;
+  border: 2px solid #006666;
+}
+
+QComboBox:hover {
+  background-color:#006666;
+  color: white;
+}
+
+QPushButton#btn_minimized{
+border:none;
+background:url("../icons/minimized.png");
+background-repeat: no-repeat;
+}
+
+QPushButton#btn_exit{
+border:none;
+background:url("../icons/close.png");
+background-repeat: no-repeat;
+}
+
+QLabel#lbl_logo{
+background:url("../icons/logo.png");
+background-repeat: no-repeat;
+}
+
+QPushButton#btn_egitim{
+background:#006666;
+border:none;
+color:white;
+text-decoration:underline;
+}
+
+QPushButton#btn_egitim:hover{
+background:#006666;
+border:none;
+color: #669999;
+}
+
+#btn_home{
+    border:none;
+    background:none;
+    background:url("../icons/home.png");
+    background-repeat:none;
+}
+
+#btn_home:hover{
+    border:2px solid;
+    border-color:#006666;
+}
+
+#btn_sureDurdur{
+    background:none;
+    background:url("../icons/pause.png");
+}
+
+#btn_basla,#btn_turnuva,#btn_dosyaSec{
+text-align:left;
+padding-left:20px;
+}
+
+#lbl_oyunAd,#lbl_hamleAd,#lbl_hamle{
+color:white;
+}
