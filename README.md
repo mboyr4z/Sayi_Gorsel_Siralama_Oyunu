@@ -7,7 +7,7 @@
 <h3 align="center" style="color:Red;">Eğitim Ekranı</h3>
 
 <p align="center" >
-<img src="https://www.resimyukle.org/images/2021/04/13/de194712cc80c2f75e6bef1dc14a8d6d.png" alt="4" border="0">
+<img src="https://github.com/mboyr4z/Sayi_Gorsel_Siralama_Oyunu/blob/main/readmePhotos/egitimEkrani.PNG?raw=true" alt="4" border="0">
 </p>
 
 <h3 align="center" style="color:Red;">Ana Ekran</h3>
