@@ -14,8 +14,7 @@
 <h3 align="center" style="color:Red;">Ana Ekran</h3>
 
 <p align="center" >
-<img src="!https://user-images.githubusercontent.com/82450697/115391653-5ece6000-a1e8-11eb-862a-a053acdb48ab.PNG
-" alt="eb938ac15cfc204b982caa378506ad05.png" border="0">
+<img src="https://user-images.githubusercontent.com/82450697/115391653-5ece6000-a1e8-11eb-862a-a053acdb48ab.PNG" alt="eb938ac15cfc204b982caa378506ad05.png" border="0">
 </p>
 
 Ana Ekranımızda Sayı Modu ve Görsel Modumuzu Seçebiliriz. 
@@ -25,8 +24,7 @@ Süre seçeneğini aktif edersek te belirtilen dakika cinsindeki zaman oyuna ba�
 <h3 align="center" style="color:Red;">Görsel Sıralama</h3>
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/82450697/115391730-7574b700-a1e8-11eb-8cef-572b30759dec.PNG
-" alt="2" border="0">
+<img src="https://user-images.githubusercontent.com/82450697/115391730-7574b700-a1e8-11eb-8cef-572b30759dec.PNG" alt="2" border="0">
 </p>
 
 
