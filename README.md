@@ -1,3 +1,4 @@
+![egitim](x)
 # Sayi_Gorsel_Siralama_Oyunu
 
 ## ANLATIM
@@ -7,7 +8,7 @@
 <h3 align="center" style="color:Red;">Eğitim Ekranı</h3>
 
 <p align="center" >
-<img src="https://github.com/mboyr4z/Sayi_Gorsel_Siralama_Oyunu/blob/main/readmePhotos/egitimEkrani.PNG?raw=true" alt="4" border="0">
+<img src="https://user-images.githubusercontent.com/82450697/115391447-2890e080-a1e8-11eb-934a-4eecf435021b.PNG" alt="4" border="0">
 </p>
 
 <h3 align="center" style="color:Red;">Ana Ekran</h3>
